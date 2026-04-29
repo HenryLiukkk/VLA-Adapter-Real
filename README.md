@@ -6,7 +6,8 @@
 Here are the deployment results of VLA-Adapter on real-world robotic manipulation tasks:
 
 <div align="center">
-  <video src="https://github.com/HenryLiukkk/vla-adapter-real-video/blob/master/grasp_nailong.mp4" width="48%" controls autoplay loop muted></video>
+  <img src="https://raw.githubusercontent.com/HenryLiukkk/vla-adapter-real-video/master/grasp_capybara.gif" width="48%">
+  <img src="https://raw.githubusercontent.com/HenryLiukkk/vla-adapter-real-video/master/grasp_nailong.gif" width="48%">
 </div>
 <br/>
 
